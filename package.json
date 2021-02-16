@@ -1,7 +1,6 @@
 {
-  "name": "assets",
+  "name": "romankostukov",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^4.0.2",
@@ -12,5 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alitvinov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romankostukov/test-light1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romankostukov/test-light1/issues"
+  },
+  "homepage": "https://github.com/romankostukov/test-light1#readme",
+  "description": ""
 }
